@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "m_socket"
+name = "m_socket-py"
 version = "1.0.0"
 description = "Module for convenient work with TCP sockets."
 authors = ["maxrskiy"]
