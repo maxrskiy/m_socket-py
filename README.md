@@ -8,14 +8,6 @@
 
 > Module for convenient work with TCP sockets.
 
-## Installation
-
-### Python
-
-```shell
-pip install -U https://github.com/maxrskiy/m_socket-py/archive/main.zip
-```
-
 ## Contributing
 
 Pool Request is supported! Ask questions in the Issues section.
