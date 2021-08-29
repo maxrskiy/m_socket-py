@@ -13,7 +13,7 @@
 ### Python
 
 ```shell
-pip install -U https://github.com/maxrskiy/m_socket-py/archive/master.zip
+pip install -U https://github.com/maxrskiy/m_socket-py/archive/main.zip
 ```
 
 ## Contributing
